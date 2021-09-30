@@ -8,4 +8,4 @@ contoh
 *Tuliskan nama kalian dibawah ini*  
 
 
-* almerio tsany [linkdIn](https://www.linkedin.com/in/almerio-tsany/)
+* almerio tsany [linkdIn](https://www.linkedin.com/in/almerio-tsany-8400a621a/)
