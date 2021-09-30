@@ -7,5 +7,4 @@ contoh
 
 *Tuliskan nama kalian dibawah ini*  
 
-
-* almerio tsany [linkdIn](https://www.linkedin.com/in/almerio-tsany-8400a621a/)
+* nabiih 'alaauddiin firdaus [linkdIn](https://www.linkedin.com/in/nabiih-alaauddiin-firdaus-27241721a/)
