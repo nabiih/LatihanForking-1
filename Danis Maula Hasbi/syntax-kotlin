@@ -1,0 +1,6 @@
+// Ini adalah code kotlin paling basic (pemula)
+
+fun main(){
+    println("Hello World")
+}
+
