@@ -1,0 +1,5 @@
+// contoh syntax kotlin bagi pemula \\
+
+fun main(){
+     println("Hello World!")
+}
